@@ -1,0 +1,1 @@
+#> episode: 1 | score: 927.17 | total steps: 1445150 | epsilon: 0.05000 | average 100 score: 927.17 => New HighScore! <= 
